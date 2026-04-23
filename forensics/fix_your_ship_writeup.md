@@ -230,3 +230,4 @@ jctf{starship_voyager_apollo}
 - **The first fixed file gave clues for the others.** The PNG contained both a flag segment and explicit instructions for repairing file2 — always fully read recovered files before moving on.
 - **MP4 corruption can be subtle.** The `ftyp` box identifier being byte-swapped (`pfyt` → `ftyp`) is easy to miss if you only check the first few bytes.
 - **Video frames carry flags.** Always extract multiple frames — the flag might only appear at the end of the clip.
+
