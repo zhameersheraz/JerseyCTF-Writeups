@@ -5,7 +5,8 @@
 **Difficulty:** Hard  
 **Points:** 987  
 **Solves:** 26  
-**Author:** Trent  
+**Challenge Author:** Trent  
+**Writeup by:** zham  
 **Flag:** `jctf{mnemosyne_remembers_even_when_humans_forget}`
 
 ---
