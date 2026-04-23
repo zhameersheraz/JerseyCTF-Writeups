@@ -5,7 +5,8 @@
 **Difficulty:** Easy  
 **Points:** 369  
 **Solves:** 27  
-**Author:** Frank Crawford  
+**Challenge Author:** Frank Crawford  
+**Writeup by:** zham  
 **Flag:** `jctf{buy_0ne_g3t_0ne_fr33}`
 
 ---
