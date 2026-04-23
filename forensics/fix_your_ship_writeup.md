@@ -5,6 +5,8 @@
 **Difficulty:** Easy  
 **Points:** 446  
 **Solves:** 53  
+**Challenge Author:** Unknown  
+**Writeup by:** zham  
 **Flag:** `jctf{starship_voyager_apollo}`
 
 ---
