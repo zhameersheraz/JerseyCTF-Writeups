@@ -5,7 +5,7 @@
 **Difficulty:** Easy  
 **Points:** 227  
 **Solves:** 41  
-**Challenge Author:** Unknown
+**Challenge Author:** Unknown  
 **Writeup by:** zham  
 **Flag:** `jctf{lost_in_space}`
 
