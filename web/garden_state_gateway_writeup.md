@@ -5,7 +5,8 @@
 **Difficulty:** Easy  
 **Points:** 411  
 **Solves:** 68  
-**Author:** Belal Ezat  
+**Challenge Author:** Belal Ezat 
+**Writeup by:** zham  
 **Flag:** `jctf{g4t3w4y_c00k13}`
 
 ---
