@@ -3,7 +3,7 @@
 **Challenge:** myDefinitive Encryption Standard  
 **Category:** crypto  
 **Difficulty:** Medium  
-**Points:** 701 (410 at time of solve)  
+**Points:** 701  
 **Solves:** 55  
 **Author:** cyb3r_s1lva  
 **Flag:** `jctf{f3ist&l_fun_w1thout_sb0x}`
