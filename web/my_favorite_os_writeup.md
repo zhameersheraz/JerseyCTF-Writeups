@@ -5,7 +5,8 @@
 **Difficulty:** Easy  
 **Points:** 467  
 **Solves:** 42  
-**Author:** reee  
+**Challenge Author:** reee  
+**Writeup by:** zham  
 **Flag:** `jctf{w1nd0ws98_1s_th3_b3st_0s_3v3r_937cn2}`
 
 ---
