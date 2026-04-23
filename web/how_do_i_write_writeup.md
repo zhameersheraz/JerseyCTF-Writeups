@@ -5,7 +5,8 @@
 **Difficulty:** Hard  
 **Points:** 998  
 **Solves:** 14  
-**Author:** Noah Jacobson  
+**Challenge Author:** Noah Jacobson  
+**Writeup by:** zham  
 **Flag:** `jctf{VQsLCvjzdo2W8Rq0-9MDzvkvUmlI88qPSNf3XvhGcORI3qhL-zv9oSlQIJ17dxyXaD}`
 
 ---
