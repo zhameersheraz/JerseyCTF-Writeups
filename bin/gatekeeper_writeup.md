@@ -1,7 +1,7 @@
 # Gatekeeper — JerseyCTF Writeup
 
 **Challenge:** Gatekeeper  
-**Category:** binary exploitation  
+**Category:** bin  
 **Difficulty:** Medium  
 **Points:** 735  
 **Solves:** 31  
