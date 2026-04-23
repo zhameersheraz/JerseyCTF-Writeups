@@ -6,6 +6,7 @@
 **Points:** 735  
 **Solves:** 31  
 **Author:** Trent  
+**Writeup by:** zham  
 **Flag:** `JCTF{N3PTUN3_G4T3_AUTH0R1Z3D}`
 
 ---
