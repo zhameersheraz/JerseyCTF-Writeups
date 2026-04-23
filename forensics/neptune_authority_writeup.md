@@ -5,7 +5,8 @@
 **Difficulty:** Medium  
 **Points:** 734  
 **Solves:** 32  
-**Author:** Trent  
+**Challenge Author:** Trent  
+**Writeup by:** zham  
 **Flag:** `jctf{48173926}`
 
 ---
