@@ -5,7 +5,8 @@
 **Difficulty:** Easy  
 **Points:** 446  
 **Solves:** 53  
-**Author:** Trent  
+**Challenge Author:** Trent  
+**Writeup by:** zham  
 **Flag:** `JCTF{47291-80536-19408}`
 
 ---
