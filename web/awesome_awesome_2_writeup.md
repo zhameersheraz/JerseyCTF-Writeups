@@ -5,7 +5,8 @@
 **Difficulty:** Easy  
 **Points:** 476  
 **Solves:** 36  
-**Author:** Nicholas Columbus  
+**Challenge Author:** Nicholas Columbus  
+**Writeup by:** zham  
 **Flag:** `jctf{MANG0S}`
 
 ---
