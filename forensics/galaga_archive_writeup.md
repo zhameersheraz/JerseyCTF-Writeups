@@ -7,6 +7,7 @@
 **Points:** 983  
 **Solves:** 36  
 **Author:** cyb3r_s1lva  
+**Writeup by:** zham  
 **Flag:** `jctf{roasted_galatic_invaders}`
 
 ---
