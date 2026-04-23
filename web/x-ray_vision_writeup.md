@@ -5,7 +5,8 @@
 **Difficulty:** Easy  
 **Points:** 442  
 **Solves:** 55  
-**Author:** Rayyan Khan  
+**Challenge Author:** Rayyan Khan  
+**Writeup by:** zham  
 **Flag:** `jctf{r0t_y0ur_w4y_t0_4cc3ss}`
 
 ---
