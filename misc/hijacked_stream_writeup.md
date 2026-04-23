@@ -6,6 +6,7 @@
 **Points:** 481  
 **Solves:** 32  
 **Authors:** Frank Crawford & Shawn Murray  
+**Writeup by:** zham  
 **Flag:** `jctf{vinylthon}`
 
 ---
