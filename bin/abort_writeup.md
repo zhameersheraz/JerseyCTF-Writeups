@@ -5,7 +5,7 @@
 **Difficulty:** Medium  
 **Points:** 598  
 **Solves:** 96  
-**Author:** Samar Yagoubi  
+**Challenge Author:** Samar Yagoubi  
 **Writeup by:** zham  
 **Flag:** `jctf{$UccES5Fully_abOrt3D!_cOnGRATUl@t!0ns}`
 
