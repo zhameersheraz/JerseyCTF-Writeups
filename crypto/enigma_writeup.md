@@ -5,7 +5,8 @@
 **Difficulty:** Medium  
 **Points:** 554  
 **Solves:** 26  
-**Author:** Robert  
+**Challenge Author:** Robert  
+**Writeup by:** zham  
 **Flag:** `jctf5{ev1l_publ1c_k3ys_w1th_evil_public_d33ds}`
 
 ---
