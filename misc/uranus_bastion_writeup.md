@@ -5,7 +5,8 @@
 **Difficulty:** Hard  
 **Points:** 993  
 **Solves:** 24  
-**Author:** Trent  
+**Challenge Author:** Trent  
+**Writeup by:** zham  
 **Flag:** `jctf{the_lattice_trusts_the_surface_not_the_soul}`
 
 ---
