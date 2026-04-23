@@ -5,7 +5,8 @@
 **Difficulty:** Medium  
 **Points:** 701  
 **Solves:** 55  
-**Author:** cyb3r_s1lva  
+**Challenge Author:** cyb3r_s1lva  
+**Writeup by:** zham  
 **Flag:** `jctf{f3ist&l_fun_w1thout_sb0x}`
 
 ---
