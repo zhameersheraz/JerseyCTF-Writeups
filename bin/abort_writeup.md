@@ -292,3 +292,4 @@ sys.stdout.buffer.write(buf)
 - **Piping vs. file redirection matters** — typing bytes interactively or adding Python startup time can lose the race against a watchdog timer. Always save your payload to a file and redirect it: `nc host port < payload.bin`.
 - **Stripped binaries are still readable** — the absence of symbol names does not stop reverse engineering. The logic is still visible in the disassembly; you just need to name the functions yourself.
 - **Little-endian byte order** — x86 stores multi-byte integers with the least significant byte first. When packing your integer values into the payload, always use `struct.pack('<I', value)` or `bytes([low, ..., high])`.
+
